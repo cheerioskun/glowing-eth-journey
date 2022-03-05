@@ -1,5 +1,5 @@
 {
-  "name": "glowing-eth-journey",
+  "name": "netherforest",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cheerioskun/glowing-eth-journey.git"
+    "url": "git+https://github.com/cheerioskun/netherforest.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cheerioskun/glowing-eth-journey/issues"
+    "url": "https://github.com/cheerioskun/netherforest/issues"
   },
-  "homepage": "https://github.com/cheerioskun/glowing-eth-journey#readme",
+  "homepage": "https://github.com/cheerioskun/netherforest#readme",
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.4",
     "@nomiclabs/hardhat-waffle": "^2.0.2",
